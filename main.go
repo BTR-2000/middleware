@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"net/http"
-	"study/newMiddle/handlers"
-	"study/newMiddle/middlewares"
-	"study/newMiddle/notes"
+	"newMiddle/handlers"
+	"newMiddle/middlewares"
+	"newMiddle/notes"
 )
 
 func main() {

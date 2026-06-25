@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"newMiddle/notes"
 	"strconv"
-	"study/newMiddle/notes"
 )
 
 type Server struct {
